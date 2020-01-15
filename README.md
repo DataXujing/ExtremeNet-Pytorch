@@ -205,7 +205,7 @@ python3 demo.py --demo ./images/test_score/test1.jpg # 单张图片
 python3 demo.py --demo ./images/test_score  # 目录
 ```
 
-![](./readme/test3.jpg)
+![](./readme/test3.png)
 
 ### Citation
 
