@@ -1,0 +1,15 @@
+cython
+setuptools==40.2.0
+numpy==1.14.3
+scipy==1.1.0
+opencv-python==3.3.1.11
+Pillow==5.2.0
+scikit-learn==0.19.1
+matplotlib==3.0.2
+torchvision==0.2.1
+tqdm==4.25.0
+pprint
+argparse
+progress
+pycocotools
+h5py
